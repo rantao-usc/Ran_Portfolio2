@@ -28,12 +28,12 @@
     ![](/images/all_image.png)
     
 # Something in the end...
-- My GPA is 4.0/4.0, which indicates I'm a rapid learner
+- My GPA is **4.0/4.0**, which indicates I'm **a rapid learner**
 - I've completed many foudation courses in 
-  - Math (Advanced Mathematics, Linear Algebra, Probability Theory and Mathematical Statistics, Discrete Mathematics, Operational Research)
-  - and Computer Science (JAVA Programming, Computer Network, Data Structure and Algorithm)
-  - which indeed gives me a solid foundation to learn new things quick
-- And more importantly, I get a minor in Management in my undergraduate, which means I took most foundation courses in a business school
-  - This gives me strong business acumen to understand business program quickly and correctly
+  - **Math** (Advanced Mathematics, Linear Algebra, Probability Theory and Mathematical Statistics, Discrete Mathematics, Operational Research)
+  - and **Computer Science** (JAVA Programming, Computer Network, Data Structure and Algorithm)
+  - which indeed gives me a **solid foundation** to learn new things quick
+- And more importantly, I get a **minor in Management** in my undergraduate, which means I took most foundation courses in **business** field
+  - This gives me strong **business acumen** to understand business problems quickly and correctly
   - which I think is really important in becoming a research assistant in business school
-- I hope you will consider my resume favorably and consider me for the position. I look forward to hearing from you!
+- I hope you will consider my resume favorably and consider me for the position. I look forward to hearing from you!!!
