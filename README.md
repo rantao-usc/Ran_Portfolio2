@@ -17,7 +17,7 @@
 - I'm currently taking CSCI 571: Web Technologies, and by far,
   - I've finished building a simple API using flask
     - That takes in the age and weight of a person, and predict his/her blood pressure using Linear Regression
-    - ![](/images/Screen%20Shot%202022-03-17%20at%2012.45.04%20PM.png)
+    - ![](/images/blood_pressure_predict.png)
     - Feel free to play with it: https://taoran.pythonanywhere.com
   - And a MUCH MORE COMPLEX ONE!!!
     - That allow administrators to login in the system
