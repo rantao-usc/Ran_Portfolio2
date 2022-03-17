@@ -15,14 +15,14 @@
     - Time Series Analysis: Built a RNN Model to predict temperatures based on historical records
 # Designing and interacting with APIs 
 - I'm currently taking CSCI 571: Web Technologies, and by far,
-  - I've finished building a simple API
+  - I've finished building a simple API using flask
     - That takes in the age and weight of a person, and predict his/her blood pressure using Linear Regression
-    - Picture
+    ![](https://github.com/rantao-usc/Ran_Portfolio/blob/main/images/Screen%20Shot%202022-03-17%20at%2012.45.04%20PM.png)
     - Feel free to play with it: https://taoran.pythonanywhere.com
   - And a MUCH MORE COMPLEX ONE!!!
     - That allow administrators to login in the system
     - Upload a chest scan into the system (and the system will store it in a cloud database: Firebase)
     - Get the image classfication result, upload the result into the system (and, of course, our cloud database)
-    - Picture 1
+    ![](https://github.com/rantao-usc/Ran_Portfolio/blob/main/images/cla_result.png)
     - And get all the data from cloud database
-    - Picture 2
+    ![](https://github.com/rantao-usc/Ran_Portfolio/blob/main/images/all_image.png)
