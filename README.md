@@ -1,4 +1,4 @@
-- Hi, my name is Ran, and I'm currently a M.S. in Applied Data Science student with strong Computer Science background!
+- Hi, my name is Ran, and I'm currently a M.S. in Applied Data Science student with a strong Computer Science background!
 - My GPA is 4.0/4.0. 
 - I can ...
 
@@ -32,7 +32,7 @@
 - I've completed many foudation courses in 
   - **Math** (Advanced Mathematics, Linear Algebra, Probability Theory and Mathematical Statistics, Discrete Mathematics, Operational Research)
   - and **Computer Science** (JAVA Programming, Computer Network, Data Structure and Algorithm)
-  - which indeed gives me a **solid foundation** to learn new things quick
+  - which indeed gives me a **solid foundation** to learn new things quickly
 - And more importantly, I get a **minor in Management** in my undergraduate, which means I took most foundation courses in **business** field
   - This gives me strong **business acumen** to understand business problems quickly and correctly
   - which I think is really important in becoming a research assistant in business school
