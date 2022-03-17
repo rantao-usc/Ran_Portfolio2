@@ -5,9 +5,9 @@
 # Do some Machine Learning and even Deep Learning!
 - I've finished the course DSCI 552: Machine Learning for Data Science, and in that course 
   - I did some **Machine Learning** Projects, for example:
-    - Linear Regression: predict the used car price
-    - Logistic Regression: classify if a certain treatment is recommended for the patient or not
-    - K-means: determine which type a patient belongs to
+    - Linear Regression: Predict used car price
+    - Logistic Regression: Classify if a certain treatment is recommended for the patient
+    - K-means: Determine which type a patient belongs to
   - And some **Deep Learning** Projects:
     - Computer Vision: Built an image classifier that can sort chest CT scans into three categories
     - Natural Language Processing: Built a RNN model to do Emotion Classification
@@ -26,3 +26,14 @@
     ![](/images/cla_result.png)
     - And get all the data from cloud database
     ![](/images/all_image.png)
+    
+# Something in the end...
+- My GPA is 4.0/4.0, which indicates I'm a rapid learner
+- I've completed many foudation courses in 
+  - Math (Advanced Mathematics, Linear Algebra, Probability Theory and Mathematical Statistics, Discrete Mathematics, Operational Research)
+  - and Computer Science (JAVA Programming, Computer Network, Data Structure and Algorithm)
+  - which indeed gives me a solid foundation to learn new things quick
+- And more importantly, I get a minor in Management in my undergraduate, which means I took most foundation courses in a business school
+  - This gives me strong business acumen to understand business program quickly and correctly
+  - which I think is really important in becoming a research assistant in business school
+- I hope you will consider my resume favorably and consider me for the position. I look forward to hearing from you!
