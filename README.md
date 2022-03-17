@@ -18,7 +18,7 @@
   - I've finished building a simple API using flask
     - This takes in the age and weight of a person, and predicts his/her blood pressure using Linear Regression
     ![](/images/blood_pressure_predict.png)
-    - Feel free to play with it: [](https://taoran.pythonanywhere.com)
+    - Feel free to play with it: [https://taoran.pythonanywhere.com](https://taoran.pythonanywhere.com)
   - And a MUCH MORE COMPLEX ONE!!!
     - This allows administrators to login in the system
     - Upload a chest scan into a cloud database: Firebase
