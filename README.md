@@ -5,9 +5,9 @@
 # Do some Machine Learning and even Deep Learning!
 - I've finished the course DSCI 552: Machine Learning for Data Science, and in that course 
   - I did some **Machine Learning** Projects, for example:
-    - Linear Regression: Predict used car price
-    - Logistic Regression: Classify if a certain treatment is recommended for the patient
-    - K-means: Determine which type a patient belongs to
+    - Linear Regression: Predicted used car price
+    - Logistic Regression: Classified if a certain treatment is recommended for the patient
+    - K-means: Determined which type a patient belongs to
   - And some **Deep Learning** Projects:
     - Computer Vision: Built an image classifier that can sort chest CT scans into three categories
     - Natural Language Processing: Built a RNN model to do Emotion Classification
