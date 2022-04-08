@@ -16,7 +16,7 @@
   - And a MUCH MORE COMPLEX ONE!!!
     - This allows administrators to login in the system
     - Upload a chest scan into a cloud database: Firebase
-    - Get the image classfication result using *Computer Vision*
+    - Get the image classfication result using **Computer Vision**
     - And upload the result into Firebase
     ![](/images/cla_result.png)
     - And get all the data from cloud database
