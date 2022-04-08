@@ -4,8 +4,9 @@
 
 # Past Experience with Web Dev 
 - I'm currently taking CSCI 571: Web Technologies, and by far,
+
   - I've completed a modern look website
-    - 
+    - fasdf
     - [https://rantao-usc.github.io/HW1/homepage.html](https://rantao-usc.github.io/HW1/homepage.html)
   - I've finished building a simple API using flask
     - This takes in the age and weight of a person, and predicts his/her blood pressure using Linear Regression
